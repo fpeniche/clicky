@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "efbb29d7f8ee4359666e9013e5be78f1",
+    "revision": "0f986c885032c5e562f9d032a1498e31",
     "url": "/fpeniche/clicky.git/index.html"
   },
   {
-    "revision": "5049eda715af0df87553",
+    "revision": "4d3e58d0c09fb24b22e4",
     "url": "/fpeniche/clicky.git/static/css/main.a7b80cd6.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fpeniche/clicky.git/static/js/2.a4ae4630.chunk.js"
   },
   {
-    "revision": "5049eda715af0df87553",
-    "url": "/fpeniche/clicky.git/static/js/main.333a966f.chunk.js"
+    "revision": "4d3e58d0c09fb24b22e4",
+    "url": "/fpeniche/clicky.git/static/js/main.e48f2d76.chunk.js"
   },
   {
     "revision": "b6e6c2b4f50315234bf4",

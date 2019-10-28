@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fpeniche/clicky.git/precache-manifest.6931f1e7761d8c9eac2002ae53fe8689.js"
+  "/fpeniche/clicky.git/precache-manifest.145e824707833384c1ff1958ee068110.js"
 );
 
 self.addEventListener('message', (event) => {

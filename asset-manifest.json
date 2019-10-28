@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fpeniche/clicky.git/static/css/main.a7b80cd6.chunk.css",
-    "main.js": "/fpeniche/clicky.git/static/js/main.333a966f.chunk.js",
-    "main.js.map": "/fpeniche/clicky.git/static/js/main.333a966f.chunk.js.map",
+    "main.js": "/fpeniche/clicky.git/static/js/main.e48f2d76.chunk.js",
+    "main.js.map": "/fpeniche/clicky.git/static/js/main.e48f2d76.chunk.js.map",
     "runtime-main.js": "/fpeniche/clicky.git/static/js/runtime-main.f309fd79.js",
     "runtime-main.js.map": "/fpeniche/clicky.git/static/js/runtime-main.f309fd79.js.map",
     "static/js/2.a4ae4630.chunk.js": "/fpeniche/clicky.git/static/js/2.a4ae4630.chunk.js",
     "static/js/2.a4ae4630.chunk.js.map": "/fpeniche/clicky.git/static/js/2.a4ae4630.chunk.js.map",
     "index.html": "/fpeniche/clicky.git/index.html",
-    "precache-manifest.6931f1e7761d8c9eac2002ae53fe8689.js": "/fpeniche/clicky.git/precache-manifest.6931f1e7761d8c9eac2002ae53fe8689.js",
+    "precache-manifest.145e824707833384c1ff1958ee068110.js": "/fpeniche/clicky.git/precache-manifest.145e824707833384c1ff1958ee068110.js",
     "service-worker.js": "/fpeniche/clicky.git/service-worker.js",
     "static/css/main.a7b80cd6.chunk.css.map": "/fpeniche/clicky.git/static/css/main.a7b80cd6.chunk.css.map",
     "static/media/logo.svg": "/fpeniche/clicky.git/static/media/logo.25bf045c.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f309fd79.js",
     "static/js/2.a4ae4630.chunk.js",
     "static/css/main.a7b80cd6.chunk.css",
-    "static/js/main.333a966f.chunk.js"
+    "static/js/main.e48f2d76.chunk.js"
   ]
 }
